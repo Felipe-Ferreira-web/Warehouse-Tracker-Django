@@ -17,6 +17,14 @@ flowchart TD
     I --> J[Fim] 
 ```
 
+###  📷 Screenshots
+![alt text](static_readme/image-5.png)
+![alt text](static_readme/image.png)
+![alt text](static_readme/image-1.png)
+![alt text](static_readme/image-2.png)
+![alt text](static_readme/image-3.png)
+![alt text](static_readme/image-4.png)
+
 ### Tecnoligias Utilizadas
 
 * [Python](https://www.python.org/)
