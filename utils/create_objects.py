@@ -2,7 +2,7 @@ import os
 import sys
 from pathlib import Path
 import random
-from utils.list_items import objects
+from list_items import objects
 import faker
 from faker.providers import BaseProvider
 import django
